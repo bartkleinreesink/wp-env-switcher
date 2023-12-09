@@ -12,6 +12,9 @@
 
 The library will compare your current URL with the environment URLs you have set in your environment variables. If the current URL matches one of the environment URLs, that environment will be marked as active. Other environments will show in the submenu.
 
+## Screenshot
+![A screenshot of the menu item](screenshot.jpg)
+
 ## Requirements
 
 Set the following `$_ENV` variables in your project:
