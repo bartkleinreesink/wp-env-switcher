@@ -1,6 +1,6 @@
 {
-    "name": "bartkleinreesink/wp-environment-switcher",
-    "description": "Add menu item to admin bar to switch between different environments",
+    "name": "fabrikage/wp-env-switcher",
+    "description": "Adds dropdown to admin bar to switch between different DTAP environments",
     "license": "MIT",
     "autoload": {
         "psr-4": {
