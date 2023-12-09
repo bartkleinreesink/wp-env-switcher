@@ -1,0 +1,19 @@
+{
+    "name": "bartkleinreesink/wp-environment-switcher",
+    "description": "Add menu item to admin bar to switch between different environments",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fabrikage\\WordPress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bart Klein Reesink",
+            "email": "bart@fabrikage.nl"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
